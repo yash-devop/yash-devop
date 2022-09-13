@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [(PortFolio soon...)]((PortFolio soon...))
 
-- 💬 Ask me about **Web Dev**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **kamble1234meena@gmail.com**
 
