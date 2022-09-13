@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Nitin Kamble</h1>
 <h3 align="center">Student at Pillai College Of Engineering(PCE) and Enthusiast Frontend Developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7W7E.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-devop&label=Profile%20views&color=0e75b6&style=flat" alt="yash-devop" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sgt_yash" target="blank"><img src="https://img.shields.io/twitter/follow/sgt_yash?logo=twitter&style=for-the-badge" alt="sgt_yash" /></a> </p>
