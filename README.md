@@ -11,7 +11,7 @@
 
 - 🎓 My Qualifications **Student at BTech in Computer Engineering at Pillai College of Engineering(PCE)**
 
-- 👨‍💻 All of my projects are available at [(PortFolio soon...)]((PortFolio soon...))
+- 👨‍💻 All of my projects are available at ((PortFolio soon...))
 
 - 💬 Ask me about **Web Development**
 
