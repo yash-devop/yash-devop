@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kamble1234meena@gmail.com**
 
-- 📄 Know about my experiences [Created a website for our College Racing Team(VRT Vanguard).](Created a website for our College Racing Team(VRT Vanguard).)
+- 📄 Know about my experiences (Created a website for our College Racing Team(VRT Vanguard).)
 
 - ⚡ My Motivation Quote **Whatever you do, do it well !**
 
