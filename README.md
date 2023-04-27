@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **ReactJS,MongoDB**
+- 🌱 I’m currently learning **ReactJS and Django**
 
 - 🎓 My Qualifications **Student at BTech in Computer Engineering at Pillai College of Engineering(PCE)**
 
-- 👨‍💻 All of my projects are available at ((PortFolio soon...))
+- 👨‍💻 All of my projects are available at ((Portfolio soon...))
 
 - 💬 Ask me about **Web Development**
 
