@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **ReactJS and Django**
+- 🌱 I’m currently learning **MongoDB,Nodejs and ExpressJS**
 
-- 🎓 My Qualifications **Student at BTech in Computer Engineering at Pillai College of Engineering(PCE)**
+- 🎓 My Qualifications ** BTech student in Computer Engineering at Pillai College of Engineering(PCE)**
 
 - 👨‍💻 All of my projects are available at ((Portfolio soon...))
 
@@ -19,6 +19,8 @@
 - 📫 How to reach me **kamble1234meena@gmail.com**
 
 - 📄 Know about my experiences (Created a website for our College Racing Team(VRT Vanguard).)
+
+- 📄 Hackoverflow hackathon 3RD Runner-up and Semi-finalist in Project Deep Blue.
 
 - ⚡ My Motivation Quote **Whatever you do, do it well !**
 
