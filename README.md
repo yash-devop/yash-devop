@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **ReactJS,MongoDB,Nodejs and ExpressJS (MERN)**
+- 🌱 I’m currently learning **NextJS**
 
 - 🎓 My Qualifications ** BTech student in Computer Engineering at Pillai College of Engineering(PCE)**
 
