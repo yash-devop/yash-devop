@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kamble1234meena@gmail.com**
 
-- 📄 Know about my experiences (Created a website for our College Racing Team(VRT Vanguard).)
+- 📄 Know about my experiences (Created a website for our College Racing Team(VRT Vanguard).
 
 - 📄 Hackoverflow hackathon 3RD Runner-up and Semi-finalist in Project Deep Blue.
 
