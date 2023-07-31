@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Personal Portfolio<br><br>🌱 I’m currently learning NextJS<br><br>🎓 My Qualifications ** Final Year BTech student in Computer Engineering at Pillai College of Engineering(PCE)**<br><br>👨‍💻 All of my projects are available at ((Portfolio soon...))<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me kamble1234meena@gmail.com<br><br>📄 Know about my experiences (Created a website for our College Racing Team(VRT Vanguard).<br><br>📄 Hackoverflow hackathon 3RD Runner-up and Semi-finalist in Project Deep Blue.<br><br>⚡ My Motivation Quote Whatever you do, do it well !
 
+![](https://komarev.com/ghpvc/?username=yash-devop)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-dev/) 
@@ -39,6 +40,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=yash-devop&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yash-devop&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
