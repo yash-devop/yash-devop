@@ -1,4 +1,4 @@
-## 👋Hi there, I'm Yash but you can call me Sentio!
+## 👋Hi there, I'm Yash but you can call me yash-devop!
 
 I'm a Full Stack Developer and a B.Tech CSE Final Year Student. I am passionate about crafting end-to-end applications that adhere to the highest standards of code quality and best practices.
 
