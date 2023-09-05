@@ -1,13 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on Personal Portfolio and Socials<br><br>🌱 I’m currently learning NextJS<br><br>🎓 My Qualifications ** Final Year BTech student in Computer Engineering at Pillai College of Engineering(PCE)**<br><br>👨‍💻 All of my projects are available at ((Portfolio soon...))<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me kamble1234meena@gmail.com<br><br>📄 Know about my experiences (Created a website for our College Racing Team(VRT Vanguard).<br><br>📄 Hackoverflow hackathon 3RD Runner-up and Semi-finalist in Project Deep Blue.<br><br>⚡ My Motivation Quote Whatever you do, do it well !
+## 👋Hi there, I'm Yash but you can call me Sentio!
 
+I'm a Full Stack Developer and a B.Tech CSE Final Year Student. I am passionate about crafting end-to-end applications that adhere to the highest standards of code quality and best practices.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-dev/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sgt_yash) 
 ![](https://komarev.com/ghpvc/?username=yash-devop)
-# 💻 Languages and Technologies :
+
 ## Frontend:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
 ## Backend:
