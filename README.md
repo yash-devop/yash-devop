@@ -5,7 +5,7 @@ I'm a Full Stack Developer and a B.Tech CSE Final Year Student. I am passionate 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-dev/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sgt_yash) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yash_devop) 
 ![](https://komarev.com/ghpvc/?username=yash-devop)
 
 ## Frontend:
